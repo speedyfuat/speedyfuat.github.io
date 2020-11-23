@@ -423,7 +423,7 @@ p {
 	height: 50%;
 	width: 50%;
 }
-.imkanlar img{
+#career .imkanlar img{
 	position: relative;
 	bottom: -200px;
 }
