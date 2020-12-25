@@ -1,1 +1,0 @@
-# speedyfuat.github.io
